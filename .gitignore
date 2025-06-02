@@ -1,3 +1,4 @@
-lab1/__pycahche__/
-lab2/__pycahche__/
-lab3/utils/__pycahche__/
+.venv/
+lab1/__pycache__/
+lab2/__pycache__/
+lab2/utils/__pycache__/
